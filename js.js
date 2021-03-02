@@ -45,7 +45,6 @@ randomNumber().then(res => {
         insertDataToArray().then(res =>
             createElement(res).then(res =>
                  console.log(res))
-                 gfhfgh
         )
     )
 });
